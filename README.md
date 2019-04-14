@@ -13,6 +13,5 @@ go get -u github.com/lc/brute53
 ### Usage:
 ```
 root@doggos:~# brute53 -c ~/.aws/credentials -delay 2 -t vulnerable.example.com
-
 ```
 
