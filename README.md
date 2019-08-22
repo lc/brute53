@@ -3,7 +3,7 @@
 
 A tool to bruteforce nameservers when working with subdomain delegations to AWS. Based off Frans Rosén's talk ["DNS hijacking using cloud providers - no verification needed"](https://youtu.be/FXCzdWm2qDg?t=1132)
 
-⚠️ This tool is currently not working
+⚠️ Note: this tool is currently not working and is on the list to be fixed at somepoint
 
 
 ### Pre-requisites:
